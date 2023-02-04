@@ -1,4 +1,4 @@
-# Dynamic Excel Pivot Table
+# Dynamic Excel Pivot Table for "Big Data"
 
 ## The problem
 Pivot tables are one of the most powerful tools one can use to explore and analyze data. However it's difficult to pivot "big data" (>1M rows) without learning new tooling (e.g., Looker) or writing custom SQL. Business users want to be able to pivot their data in the tools with which they are comfortable (e.g., Excel). In addition, they want an interface that is intuitive, interactive, and dynamic — one that has the sophistication of modern software, but the power and simplicity of Excel.
