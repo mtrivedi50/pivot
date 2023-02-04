@@ -17,10 +17,10 @@ We take these inputs, transform your raw data to a form that is compatible with 
 ## How to use the product
 Here's what the dashboard looks like:
 
-- The buttons on the left-hand-side in green (called "slicers" in Excel terminology) act as filters. They can be used to filter the data to a specific combination of inputs.
-- The buttons on the top in green control columns. If multiple values are selected for a specific filter, you have the option of placing that filter out wide into columns.
-- The buttons on top control data aggregations. These can be toggled on and off.
-- The buttons in the middle in orange control the rows. Only one of these buttons can be specified at a time (though, we're working on allowing users to specify multiple).
+- The buttons on the left-hand-side in blue (called "slicers" in Excel terminology) act as filters. They can be used to filter the data to a specific combination of inputs.
+- The buttons on the top in blue control columns. If multiple values are selected for a specific filter, you have the option of placing that filter out wide into columns.
+- The buttons on the top in green control data aggregations. These can be toggled on and off.
+- The buttons in the middle in yellow control the rows. Only one of these buttons can be specified at a time (though, we're working on allowing users to specify multiple).
 
 ## Sample workbook
 Download a sample workbook here.
