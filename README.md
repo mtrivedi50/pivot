@@ -1,9 +1,10 @@
 ## The problem
 Pivot tables are one of the most powerful tools one can use to explore and analyze data. However it's difficult to pivot "big data" (>1M rows) without learning new tooling (e.g., Looker) or writing custom SQL. Business users want to be able to pivot their data in the tools with which they are comfortable (e.g., Excel). In addition, they want an interface that is intuitive, interactive, and dynamic — one that has the sophistication of modern software, but the power and simplicity of Excel.
 
+
 ## The solution
 A dynamic pivot table application built using Excel, VBA, Power Query, and Power Pivot.
-<br>
+
 
 ## How it works
 Users provide the following via a secure platform:
@@ -12,7 +13,7 @@ Users provide the following via a secure platform:
 - Specific data aggregations
 
 We take these inputs, transform your raw data to a form that is compatible with our tooling, and then generate your Excel dashboard. This dashboard is of file type `.xlsm` and will be available via download from the platform.
-<br>
+
 
 ## How to use the product
 There are three sections to the dashboard: the filter section, the button section, and the actual pivot table. The videos below show how to use each. This example workbook uses airline delay data from [here](https://www.kaggle.com/datasets/heemalichaudhari/airlines-delay).
@@ -36,11 +37,11 @@ There are three sections to the dashboard: the filter section, the button sectio
 <summary>The buttons in the middle in yellow control the rows. Only one of these buttons can be specified at a time (though, we're working on allowing users to specify multiple).</summary>
 <video src="./assets/pivot_rows.mov" controls="controls" style="max-width:1000px"></video>
 </details>
-<br>
+
 
 ## Sample workbook
 Download a sample workbook here.
-<br>
+
 
 ## Limitations
 This tool is extraordinarily powerful, and it allow business users to explore, analyze, and summarize data without dedicated tooling or data analyst/scientist resources. However, it has the following limitations:
@@ -48,7 +49,7 @@ This tool is extraordinarily powerful, and it allow business users to explore, a
 - The more filters requested, the slower the dashboard will be.
 - The dashboard itself is of filetype `.xlsm`. Make sure that you enable macros when opening the workbook, and confirm that this does not cause security concerns for users prior to distributing.
 - The underlying code will be locked to protect IP.
-<br>
+
 
 ## Waitlist
 Join the waitlist here!
