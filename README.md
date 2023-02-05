@@ -15,12 +15,28 @@ Users provide the following via a secure platform:
 We take these inputs, transform your raw data to a form that is compatible with our tooling, and then generate your Excel dashboard. This dashboard is of file type `.xlsm` and will be available via download from the platform.
 
 ## How to use the product
-Here's what the dashboard looks like:
+There are three sections to the dashboard: the filter section, the button section, and the actual pivot table. The videos below show how to use each. This exmaple workbook was loaded with airline delay data from [here](https://www.kaggle.com/datasets/heemalichaudhari/airlines-delay).
 
-- The buttons on the left-hand-side in blue (called "slicers" in Excel terminology) act as filters. They can be used to filter the data to a specific combination of inputs.
-- The buttons on the top in blue control columns. If multiple values are selected for a specific filter, you have the option of placing that filter out wide into columns.
-- The buttons on the top in green control data aggregations. These can be toggled on and off.
-- The buttons in the middle in yellow control the rows. Only one of these buttons can be specified at a time (though, we're working on allowing users to specify multiple).
+<details>
+<summary>The buttons on the left-hand-side in blue (called "slicers" in Excel terminology) act as filters. They can be used to filter the data to a specific combination of inputs.</summary>
+<video src="assets/pivot_filters.mov" controls="controls"></video>
+</details>
+
+<details>
+<summary>The buttons on the top in blue control columns. If multiple values are selected for a specific filter, you have the option of placing that filter out wide into columns.</summary>
+<video src="assets/pivot_filter_cols.mov" controls="controls"></video>
+</details>
+
+<details>
+<summary>The buttons on the top in green control data aggregations. These can be toggled on and off.</summary>
+<video src="assets/pivot_values.mov" controls="controls"></video>
+</details>
+
+<details>
+<summary>The buttons in the middle in yellow control the rows. Only one of these buttons can be specified at a time (though, we're working on allowing users to specify multiple).</summary>
+<video src="assets/pivot_rows.mov" controls="controls"></video>
+</details>
+
 
 ## Sample workbook
 Download a sample workbook here.
