@@ -19,22 +19,22 @@ There are three sections to the dashboard: the filter section, the button sectio
 
 <details>
 <summary>The buttons on the left-hand-side in blue (called "slicers" in Excel terminology) act as filters. They can be used to filter the data to a specific combination of inputs.</summary>
-<video src="https://github.com/mtrivedi50/pivot/blob/main/assets/pivot_filter_cols.mov" controls="controls"></video>
+<video src="./assets/pivot_filters.mov" controls="controls" style="max-width:1000px"></video>
 </details>
 
 <details>
 <summary>The buttons on the top in blue control columns. If multiple values are selected for a specific filter, you have the option of placing that filter out wide into columns.</summary>
-<video src="./assets/pivot_filter_cols.mov" controls="controls"></video>
+<video src="./assets/pivot_filter_cols.mov" controls="controls" style="max-width:1000px"></video>
 </details>
 
 <details>
 <summary>The buttons on the top in green control data aggregations. These can be toggled on and off.</summary>
-<video src="./assets/pivot_values.mov" controls="controls"></video>
+<video src="./assets/pivot_values.mov" controls="controls" style="max-width:1000px"></video>
 </details>
 
 <details>
 <summary>The buttons in the middle in yellow control the rows. Only one of these buttons can be specified at a time (though, we're working on allowing users to specify multiple).</summary>
-<video src="./assets/pivot_rows.mov" controls="controls"></video>
+<video src="./assets/pivot_rows.mov" controls="controls" style="max-width:1000px"></video>
 </details>
 
 
