@@ -6,6 +6,7 @@ Pivot tables are one of the most powerful tools one can use to explore and analy
 ## The solution
 A dynamic pivot table application built using Excel, VBA, Power Query, and Power Pivot.
 
+---
 ## How it works
 Users provide the following via a secure platform:
 - The data as a CSV
@@ -14,6 +15,7 @@ Users provide the following via a secure platform:
 
 We take these inputs, transform your raw data to a form that is compatible with our tooling, and then generate your Excel dashboard. This dashboard is of file type `.xlsm` and will be available via download from the platform.
 
+---
 ## How to use the product
 There are three sections to the dashboard: the filter section, the button section, and the actual pivot table. The videos below show how to use each. This example workbook uses airline delay data from [here](https://www.kaggle.com/datasets/heemalichaudhari/airlines-delay).
 
@@ -37,10 +39,11 @@ There are three sections to the dashboard: the filter section, the button sectio
 <video src="./assets/pivot_rows.mov" controls="controls" style="max-width:1000px"></video>
 </details>
 
-
+---
 ## Sample workbook
 Download a sample workbook here.
 
+---
 ## Limitations
 This tool is extraordinarily powerful, and it allow business users to explore, analyze, and summarize data without dedicated tooling or data analyst/scientist resources. However, it has the following limitations:
 - We find that this dashboard works best on data that is <10M rows.
@@ -48,5 +51,6 @@ This tool is extraordinarily powerful, and it allow business users to explore, a
 - The dashboard itself is of filetype `.xlsm`. Make sure that you enable macros when opening the workbook, and confirm that this does not cause security concerns for users prior to distributing.
 - The underlying code will be locked to protect IP.
 
+---
 ## Waitlist
 Join the waitlist here!
