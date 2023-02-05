@@ -15,11 +15,11 @@ Users provide the following via a secure platform:
 We take these inputs, transform your raw data to a form that is compatible with our tooling, and then generate your Excel dashboard. This dashboard is of file type `.xlsm` and will be available via download from the platform.
 
 ## How to use the product
-There are three sections to the dashboard: the filter section, the button section, and the actual pivot table. The videos below show how to use each. This exmaple workbook was loaded with airline delay data from [here](https://www.kaggle.com/datasets/heemalichaudhari/airlines-delay).
+There are three sections to the dashboard: the filter section, the button section, and the actual pivot table. The videos below show how to use each. This example workbook uses airline delay data from [here](https://www.kaggle.com/datasets/heemalichaudhari/airlines-delay).
 
 <details>
 <summary>The buttons on the left-hand-side in blue (called "slicers" in Excel terminology) act as filters. They can be used to filter the data to a specific combination of inputs.</summary>
-<video src="./assets/pivot_filters.mov" controls="controls"></video>
+<video src="https://github.com/mtrivedi50/pivot/blob/main/assets/pivot_filter_cols.mov" controls="controls"></video>
 </details>
 
 <details>
