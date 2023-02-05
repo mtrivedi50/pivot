@@ -38,11 +38,12 @@ There are three sections to the dashboard: the filter section, the button sectio
 <summary>The buttons in the middle in yellow control the rows. Only one of these buttons can be specified at a time (though, we're working on allowing users to specify multiple).</summary>
 <video src="./assets/pivot_rows.mov" controls="controls" style="max-width:1000px"></video>
 </details>
-
 <br>
+
 ---
 ## Sample workbook
 Download a sample workbook here.
+
 ---
 ## Limitations
 This tool is extraordinarily powerful, and it allow business users to explore, analyze, and summarize data without dedicated tooling or data analyst/scientist resources. However, it has the following limitations:
