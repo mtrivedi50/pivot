@@ -21,16 +21,16 @@ We take these inputs, transform your raw data to a form that is compatible with 
 There are three sections to the dashboard: the filter section, the button section, and the actual pivot table. The videos below show how to use each. This example workbook uses airline delay data from [here](https://www.kaggle.com/datasets/heemalichaudhari/airlines-delay).
 
 - The buttons on the left-hand-side in blue (called "slicers" in Excel terminology) act as filters. They can be used to filter the data to a specific combination of inputs.
-<video src="./assets/pivot_filters.mov" controls="controls" style="max-width:1000px"></video>
+<video src="./assets/pivot_filters.mov" controls="controls" style="max-width:1000px"></video><br>
 
 - The buttons on the top in blue control columns. If multiple values are selected for a specific filter, you have the option of placing that filter out wide into columns.
-<video src="./assets/pivot_filter_cols.mov" controls="controls" style="max-width:1000px"></video>
+<video src="./assets/pivot_filter_cols.mov" controls="controls" style="max-width:1000px"></video><br>
 
 - The buttons on the top in green control data aggregations. These can be toggled on and off.
-<video src="./assets/pivot_values.mov" controls="controls" style="max-width:1000px"></video>
+<video src="./assets/pivot_values.mov" controls="controls" style="max-width:1000px"></video><br>
 
 - The buttons in the middle in yellow control the rows. Only one of these buttons can be specified at a time (though, we're working on allowing users to specify multiple).
-<video src="./assets/pivot_rows.mov" controls="controls" style="max-width:1000px"></video>
+<video src="./assets/pivot_rows.mov" controls="controls" style="max-width:1000px"></video><br>
 
 
 ## Sample workbook
