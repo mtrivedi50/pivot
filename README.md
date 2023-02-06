@@ -34,7 +34,7 @@ There are three sections to the dashboard: the filter section, the button sectio
 
 
 ## Sample workbook
-Download a sample workbook here.
+Download a sample workbook [here](./examples/example_dashboard.xlsm).
 
 
 ## Limitations
@@ -46,4 +46,4 @@ This tool is extraordinarily powerful, and it allow business users to explore, a
 
 
 ## Waitlist
-Join the waitlist here!
+Join the waitlist [here](https://r5pxaop6un6.typeform.com/to/CvWP7Qmu)!
