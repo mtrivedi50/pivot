@@ -18,7 +18,7 @@ We take these inputs, transform your raw data to a form that is compatible with 
 
 
 ## How to use the product
-There are three sections to the dashboard: the filter section, the button section, and the actual pivot table. The videos below show how to use each. This example workbook uses airline delay data from [here](https://www.kaggle.com/datasets/heemalichaudhari/airlines-delay).
+There are three sections to the dashboard: the filter section, the button section, and the actual pivot table. The videos below show how to use each. This example workbook uses airline delay data from [here](https://www.kaggle.com/datasets/heemalichaudhari/airlines-delay), which has about ~2M rows.
 
 - The buttons on the left-hand-side in blue (called "slicers" in Excel terminology) act as filters. They can be used to filter the data to a specific combination of inputs.
 <video src="./assets/pivot_filters.mov" controls="controls" style="max-width:1000px"></video><br>
